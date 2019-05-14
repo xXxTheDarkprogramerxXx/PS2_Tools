@@ -1,0 +1,8 @@
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS2_Tools\PS2_Tools\bin\Debug\PS2_Tools.dll
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS2_Tools\PS2_Tools\bin\Debug\PS2_Tools.pdb
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS2_Tools\PS2_Tools\bin\Debug\DiscUtils.dll
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS2_Tools\PS2_Tools\obj\Debug\PS2_Tools.csprojResolveAssemblyReference.cache
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS2_Tools\PS2_Tools\obj\Debug\PS2_Tools.Properties.Resources.resources
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS2_Tools\PS2_Tools\obj\Debug\PS2_Tools.csproj.GenerateResource.Cache
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS2_Tools\PS2_Tools\obj\Debug\PS2_Tools.dll
+c:\users\3deechelon\documents\visual studio 2015\Projects\PS2_Tools\PS2_Tools\obj\Debug\PS2_Tools.pdb
